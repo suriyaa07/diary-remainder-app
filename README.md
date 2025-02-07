@@ -3,7 +3,7 @@
 ## Tech Stack
 - **Backend:** Node.js with Express.js
 - **Database:** MongoDB
-- **Frontend:** Android (likely using Flutter or React Native)
+- **Frontend:** Android - kortlin
 
 ## Features
 
